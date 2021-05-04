@@ -12,4 +12,4 @@ jobs:
       - name: Hello world action step
         uses: WeCatTalk/show-image-to-readme-action@master
         with:
-          patterns: "['xmind/*.png']"
+          patterns: "[\"xmind/*.png\"]"
